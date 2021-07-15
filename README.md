@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noppakorn
-- 👀 I’m interested in Python
+- 👀 I’m interested in Programming (Of course this is github lol)
 - 🌱 I’m currently learning Engineering
 
 <!---
