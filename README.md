@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noppakorn
-- 👀 I’m interested in Programming (Of course this is github lol)
-- 🌱 I’m currently learning Engineering
+- 👀 I’m interested in Data Science, Servers and Programming in general
+- 🌱 I’m currently learning Computer Engineering @ Chulalongkorn University
 
 <!---
 noppakorn/noppakorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
