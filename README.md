@@ -13,7 +13,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ## Github Stats
-![Noppakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=noppakorn&show_icons=true&theme=gruvbox)
+![Noppakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=noppakorn&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noppakorn&theme=dark&layout=compact)
 <!---
 noppakorn/noppakorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
